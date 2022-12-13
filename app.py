@@ -1,1 +1,1 @@
-friddyIsCool = False
+friddyIsCool = True
